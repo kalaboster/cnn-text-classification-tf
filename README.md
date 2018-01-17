@@ -8,6 +8,11 @@ It is slightly simplified implementation of Kim's [Convolutional Neural Networks
 - Tensorflow > 0.12
 - Numpy
 
+## Setup
+
+1. virtualenv -p python3 venv
+2. pip3 install -r requirements.txt
+
 ## Training
 
 Print parameters:
